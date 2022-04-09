@@ -1,0 +1,11 @@
+This is an overview of the project.
+It consists of the following:
+- an arduino uno
+- a python script polling an api provider
+
+1) arduino setup
+The setup consists of a 1602 LCD screen, an arduino uno, a buzzer, and a breadboard. When the arduino receives data from the serial port, it displays the data on the LCD and buzzes.
+
+2) python script
+Polls api for data and sends that data via a serial port.
+
